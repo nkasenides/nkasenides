@@ -3,11 +3,11 @@
 
 I am a researcher in Computing at the University of Central Lancashire (UCLan) based in Cyprus and a part-time tutor. I am also a software engineer and I love creating all sorts of software.
 
-### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 
-### Top used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skillz
 
 ### Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
