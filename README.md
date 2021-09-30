@@ -6,14 +6,8 @@ I am a researcher in Computing at the University of Central Lancashire (UCLan) b
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 
-### Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ### Top used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkasenides&margin-w=15&)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
