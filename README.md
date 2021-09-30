@@ -1,7 +1,7 @@
 <h1 align="center">Nicos Kasenides</h1>
 <p align="center"><b>Hello there!</b></p>
 
-I am a researcher in Computing at the University of Central Lancashire (UCLan) based in Cyprus and a part-time tutor. I am also a software engineer and I love creating all sorts of software.
+I am a researcher and PhD candidate in Computing at the University of Central Lancashire (UCLan) based in Cyprus and a part-time tutor. I am also a software engineer and I love creating all sorts of software.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 
