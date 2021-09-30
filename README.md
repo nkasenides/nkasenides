@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
