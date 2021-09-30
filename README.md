@@ -2,16 +2,13 @@
 
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkasenides&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkasenides&margin-w=15&)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nkasenides)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 <!--
