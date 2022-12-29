@@ -2,7 +2,7 @@
 
 _Developer, researcher, lecturer in Computer Science_
 
-* Currently pursuing a PhD related to the areas of Software Engineering, Distributed real-time systems, and cloud computing.
+* Currently pursuing a PhD related to the areas of Software Engineering, Distributed real-time systems, and Cloud computing.
 * Creator of the Athlos framework, a software development framework for creating scalable MMOG backends.
 * Experienced web and cross-platform mobile application developer.
 
