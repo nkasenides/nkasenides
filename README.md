@@ -5,6 +5,8 @@ _Developer, researcher, lecturer in Computer Science_
 * Currently pursuing a PhD related to the areas of Software Engineering, Distributed real-time systems, and Cloud computing.
 * Creator of the Athlos framework, a software development framework for creating scalable MMOG backends.
 * Experienced web and cross-platform mobile application developer.
+* Experience using commodity clouds, such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure.
+* Created things ranging from websites apps to programming languages, compilers and operating systems.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
