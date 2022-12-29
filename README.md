@@ -7,6 +7,9 @@
 * Experienced web and cross-platform mobile application developer.
 * Experience using commodity clouds, such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure.
 * Created things ranging from websites apps to programming languages, compilers and operating systems.
+  
+[Website](https://www.nkasenides.com)
+[ResearchGate profile](https://www.researchgate.net/profile/Nicos-Kasenides)
 
 ---
 
