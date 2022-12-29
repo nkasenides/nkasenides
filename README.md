@@ -8,8 +8,12 @@ _Developer, researcher, lecturer in Computer Science_
 * Experience using commodity clouds, such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure.
 * Created things ranging from websites apps to programming languages, compilers and operating systems.
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
