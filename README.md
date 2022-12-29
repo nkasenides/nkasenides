@@ -1,6 +1,6 @@
 <h1 align="center">Nicos Kasenides</h1>
 
-<p align="center">_**Developer, researcher, lecturer in Computer Science**_<p>
+<p align="center"><b><i>Developer, researcher, lecturer in Computer Science</i></b><p>
 
 * Currently pursuing a PhD related to the areas of Software Engineering, Distributed real-time systems, and Cloud computing.
 * Creator of the Athlos framework, a software development framework for creating scalable MMOG backends.
