@@ -7,7 +7,6 @@ _Developer, researcher, lecturer in Computer Science_
 * Experienced web and cross-platform mobile application developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkasenides&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkasenides&hide=pascal&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
