@@ -9,6 +9,7 @@
 * Created things ranging from websites and apps to programming languages, compilers and operating systems.
 
 <h3>Some side projects</h3>
+
 * [Firestorm, an object-oriented Java API & ORM for Firebase Firestore & Real-time database](https://github.com/RayLabz/Firestorm)
 * [Mocha Server, a multi-threaded TCP & UDP server in Java](https://github.com/RayLabz/Mocha-Server)
 * [nicOS, an operating system based on UNIX built from scratch](https://github.com/nkasenides/nicOS)
