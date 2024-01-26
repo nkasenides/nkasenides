@@ -7,7 +7,7 @@
   I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems. I have a PhD and BSc
   in Computing, and I have worked as a software developer in various projects. As part of my PhD thesis, I developed
   Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Games.
-  I also have significant experience in developing various types of software, including web and mobile applications,
+  I also have significant experience in developing various types of software, including web and mobile applications, cross-platform applications,
   software libraries and tools, and I have extensively experimented with programming language design, compilers, and 
   operating systems.
 </p>
