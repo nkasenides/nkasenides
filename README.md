@@ -23,7 +23,7 @@ I teach several Computing modules at UCLan Cyprus:
 * CO4755 - Mobile Application Development (MSc)
 * CO3411 - Distributed Enterprise Systems
 
-<p>Interests:</p>
+<h3>Interests:</h3>
 
 * Commodity clouds (development and deployment of scalable software)
 * Real-time distributed systems (and specifically performance-intensive systems like MMOG backends)
@@ -31,7 +31,7 @@ I teach several Computing modules at UCLan Cyprus:
 * Human-Computer Interaction and User Experience
 * Education in Computer Science
 
-<h3>Side projects</h3>
+<h3>Some side projects</h3>
 
 * 🔥 [Firestorm, an object-oriented Java API & ORM for Firebase Firestore & Real-time database](https://github.com/RayLabz/Firestorm)
 * 🛜 [Mocha Server, a multi-threaded TCP & UDP server in Java](https://github.com/RayLabz/Mocha-Server)
@@ -56,5 +56,7 @@ I teach several Computing modules at UCLan Cyprus:
 </p>
 
 [UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/)
+
 [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides)
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
