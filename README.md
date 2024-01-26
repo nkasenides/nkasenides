@@ -42,20 +42,14 @@ I teach several Computing modules at UCLan Cyprus:
 
 <h3>Current work</h3>
 
-<p>
-  I am currently working on the [PREPARED Mobile app](https://prepared-project.eu/app/), which provides a digital platform to complement 
-  the training in terms of research ethics and integrity decision-making during global crises, under the [PREPARED project](https://prepared-project.eu/app/).
-</p>
+I am currently working on the [PREPARED Mobile app](https://prepared-project.eu/app/), which provides a digital platform to complement 
+the training in terms of research ethics and integrity decision-making during global crises, under the [PREPARED project](https://prepared-project.eu/app/).
 
-<p>
-  I am also working on the development of the [ePhyLi](https://www.ephyliproject.eu/) app, which aims to provide a platform for training
-  future PE teachers in Physical Literacy and education.
-</p>
+I am also working on the development of the [ePhyLi](https://www.ephyliproject.eu/) app, which aims to provide a platform for training
+future PE teachers in Physical Literacy and education.
 
-<p>
-  In my spare time, I am developing a system called Active Code Templates (ACT) and its accompanying language. ACT aims to provide
-  a way for developers to define abstract code templates and use them to generate code for various purposes, technologies, environments, and programming languages,
-  in order to enhance the software development process.
-</p>
+In my spare time, I am developing a system called Active Code Templates (ACT) and its accompanying language. ACT aims to provide 
+a way for developers to define abstract code templates and use them to generate code for various purposes, technologies, environments, and programming languages, 
+in order to enhance the software development process.
 
 [UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/) [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
