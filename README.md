@@ -55,8 +55,4 @@ I teach several Computing modules at UCLan Cyprus:
   in order to enhance the software development process.
 </p>
 
-[UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/)
-
-[ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides)
-
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
+[UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/) [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
