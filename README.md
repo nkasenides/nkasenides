@@ -1,4 +1,4 @@
-<h1 align="center">Nicos Kasenides</h1>
+<h1 align="center">Dr Nicos Kasenides</h1>
 
 <p align="center"><b>Señor developer 🥸🧑‍💻, Researcher 🔭, Lecturer in Computer Science 👨‍🏫</b><p>
 
