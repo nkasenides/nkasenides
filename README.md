@@ -1,6 +1,8 @@
 <h1 align="center">Dr Nicos Kasenides</h1>
 
-<img src="https://www.uclancyprus.ac.cy/wp-content/uploads/2023/01/Nicos-Kasenides-1-150x150.jpg" alt="Nicos" />
+<div align="center">
+  <img style="border-radius: 20%" src="https://www.uclancyprus.ac.cy/wp-content/uploads/2023/01/Nicos-Kasenides-1-150x150.jpg" alt="Nicos" />
+</div>
 
 <p align="center"><b>Señor developer 🥸🧑‍💻 Researcher 🔭 Lecturer in Computer Science 👨‍🏫</b><p>
 
