@@ -51,7 +51,7 @@ I teach several Computing modules at UCLan Cyprus:
 
 <p>
   In my spare time, I am developing a system called Active Code Templates (ACT) and its accompanying language. ACT aims to provide
-  a way for developer to define abstract code templates and use them to generate code for various purposes, technologies, environments, and programming languages,
+  a way for developers to define abstract code templates and use them to generate code for various purposes, technologies, environments, and programming languages,
   in order to enhance the software development process.
 </p>
 
