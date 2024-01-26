@@ -1,6 +1,6 @@
 <h1 align="center">Nicos Kasenides</h1>
 
-<p align="center"><b><i>Señor developer 🥸🧑‍💻, Researcher 🔭, Lecturer in Computer Science 👨‍🏫</i></b><p>
+<p align="center"><b>Señor developer 🥸🧑‍💻, Researcher 🔭, Lecturer in Computer Science 👨‍🏫</b><p>
 
 <p>
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> and
