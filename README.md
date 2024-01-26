@@ -2,7 +2,7 @@
 
 <p align="center"><b>Señor developer 🥸🧑‍💻 Researcher 🔭 Lecturer in Computer Science 👨‍🏫</b><p>
 
-<p>
+<p align="justify">
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> and
   I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems. I have a PhD and BSc
   in Computing, and I have worked as a software developer in various projects. As part of my PhD thesis, I developed
