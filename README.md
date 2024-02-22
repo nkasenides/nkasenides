@@ -47,7 +47,7 @@ the training in terms of research ethics and integrity decision-making during gl
 I am also working on the development of the [ePhyLi](https://www.ephyliproject.eu/) app, which aims to provide a platform for training
 future PE teachers in Physical Literacy and education.
 
-On my spare time, I am working on creating ACT (Abstract Code Templates), a language and tools that can be used to create code templates which can be used to generate code for a variety of languages, frameworks, environments, and purposes, with the aim of quickly and easily generating APIs, UIs, Network Protocols, and more. ACT is being developed to be integrated in the Athlos framework, but to also be used as an independent tool.
+In my spare time, I work on creating ACT (Abstract Code Templates). ACT is a language (and its associated tools) that can be used to create code templates, which can be then used to generate code for a variety of languages, frameworks, environments, and purposes, with the aim of quickly and easily generating software projects for specific frameworks, creating APIs, UIs, network protocols, and more. ACT is being developed to be integrated in the Athlos framework, but to also be used as an independent tool.
 
 [UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/) |
 [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) |
