@@ -13,7 +13,7 @@
   operating systems, clouds, robotics, and my research extends in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, and Gamification.
 </p>
 
-<div style="text-align: center">
+<div align="center">
 
 🌍 Based in **Cyprus**
 
@@ -21,6 +21,7 @@
 <a href="http://www.github.com/nkasenides"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nkasenides&stroke=000000&background=FFFFFF&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=333333&dates=333333&hide_border=false" /></a>
 
 </div>
+
 <h3>Teaching</h3>
 
 I teach several Computing modules at UCLan Cyprus:
