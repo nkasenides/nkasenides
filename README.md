@@ -2,7 +2,7 @@
 
 <p></p>
 
-<p align="center"><b>Señor developer 🥸🧑‍💻 Researcher 🔭 Lecturer in Computer Science 👨‍🏫</b><p>
+<p align="center"><b>Señor developer 🧑‍💻 Researcher 🔭 Lecturer in Computer Science 👨‍🏫</b><p>
 
 <p align="justify">
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> and
