@@ -71,7 +71,7 @@ future PE teachers in Physical Literacy and education.
 
 <br/>
 
-<div style="text-align:center;">
+<div align="center">
 
 [GitHub](https://www.github.com/nkasenides) |
 [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) |
@@ -82,6 +82,6 @@ future PE teachers in Physical Literacy and education.
 
 <br/>
 
-<div style="text-align:center;">
-    <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nkasenides"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/nkasenides"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
