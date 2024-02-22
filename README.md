@@ -6,16 +6,11 @@
 
 <p align="justify">
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
-  I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems. I have a PhD and BSc
-  in Computing, and I have worked as a software developer and researcher in various projects. As part of my PhD thesis, I developed
-  Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends.
-  I also like developing various types of software, including web and mobile applications, cross-platform applications,
-  software libraries and tools, and I have extensively experimented with programming language design, compilers,
-  operating systems, and robotics. 
-</p>
-
-<p>
-  My research and activities extend in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, Gamification, and more. 
+  I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems and I have a PhD and BSc
+  in Computing. As part of my PhD thesis, I developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends.
+  In the past, I have worked as a software developer and researcher in various projects, and I also like developing various types of software including
+  web and mobile applications, cross-platform applications, software libraries, tools, and more. I have extensively experimented with programming language design, compilers,
+  operating systems, and robotics, and my research and activities extend in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, Gamification, and more. 
 </p>
 
 <h3>Teaching</h3>
