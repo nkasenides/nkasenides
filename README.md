@@ -26,9 +26,9 @@ I teach several Computing modules at UCLan Cyprus:
 
 <h3>Interests:</h3>
 
+* Software Engineering (methodologies, patterns, tools, etc.)
 * Commodity clouds (development and deployment of scalable software)
 * Real-time distributed systems (and specifically performance-intensive systems like MMOG backends)
-* Software Engineering (methodologies, patterns, tools, etc.)
 * Application development (cross platform, web, Android, etc.)
 * Human-Computer Interaction and User Experience
 * Education in Computer Science
