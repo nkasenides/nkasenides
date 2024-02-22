@@ -6,11 +6,11 @@
 
 <p align="justify">
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
-  I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems and I have a PhD and BSc
-  in Computing. As part of my PhD thesis, I developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends.
+  I have a PhD and BSc in Computing and I specialize in software engineering, cloud computing, and distributed real-time systems. 
+  As part of my PhD thesis, I developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity/public clouds.
   In the past, I have worked as a software developer and researcher in various projects, and I also like developing various types of software including
   web and mobile applications, cross-platform applications, software libraries, tools, and more. I have extensively experimented with programming language design, compilers,
-  operating systems, and robotics, and my research and activities extend in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, Gamification, and more. 
+  operating systems, clouds, robotics, and my research extends in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, and Gamification.
 </p>
 
 <h3>Teaching</h3>
@@ -47,4 +47,8 @@ the training in terms of research ethics and integrity decision-making during gl
 I am also working on the development of the [ePhyLi](https://www.ephyliproject.eu/) app, which aims to provide a platform for training
 future PE teachers in Physical Literacy and education.
 
-[UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/) [ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
+On my spare time, I am working on creating ACT (Abstract Code Templates), a language and tools that can be used to create code templates which can be used to generate code for a variety of languages, frameworks, environments, and purposes, with the aim of quickly and easily generating APIs, UIs, Network Protocols, and more. ACT is being developed to be integrated in the Athlos framework, but to also be used as an independent tool.
+
+[UCLan Cyprus](https://www.uclancyprus.ac.cy/academic/nicos-kasenides-2/) |
+[ResearchGate](https://www.researchgate.net/profile/Nicos-Kasenides) |
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=6Jqe1FMAAAAJ)
