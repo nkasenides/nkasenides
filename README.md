@@ -5,25 +5,29 @@
 <p align="center"><b>Señor developer 🧑‍💻 Researcher 🔭 Lecturer in Computer Science 👨‍🏫</b><p>
 
 <p align="justify">
-  I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> and
+  I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
   I specialize in Software engineering, Cloud Computing, and Distributed Real-Time systems. I have a PhD and BSc
-  in Computing, and I have worked as a software developer in various projects. As part of my PhD thesis, I developed
-  Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Games.
-  I also have significant experience in developing various types of software, including web and mobile applications, cross-platform applications,
-  software libraries and tools, and I have extensively experimented with programming language design, compilers, and 
-  operating systems.
+  in Computing, and I have worked as a software developer and researcher in various projects. As part of my PhD thesis, I developed
+  Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends.
+  I also like developing various types of software, including web and mobile applications, cross-platform applications,
+  software libraries and tools, and I have extensively experimented with programming language design, compilers,
+  operating systems, and robotics. 
+</p>
+
+<p>
+  My research and activities extend in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, Gamification, and more. 
 </p>
 
 <h3>Teaching</h3>
 
 I teach several Computing modules at UCLan Cyprus:
 
-* CO1407 - Introduction to Programming
-* CO1417 - Explorations in Computing
-* CO1111 - The Computing Challenge
-* CO2509 - Mobile Computing (BSc)
-* CO4755 - Mobile Application Development (MSc)
-* CO3411 - Distributed Enterprise Systems
+* CO1407 - Introduction to Programming (2019-Present)
+* CO1417 - Explorations in Computing (2021-Present)
+* CO1111 - The Computing Challenge (2018-Present)
+* CO2509 - Mobile Computing (BSc) (2023-Present)
+* CO4755 - Mobile Application Development (MSc) (2022-Present)
+* CO3411 - Distributed Enterprise Systems (2022-Present)
 
 <h3>Interests:</h3>
 
