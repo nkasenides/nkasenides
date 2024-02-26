@@ -7,16 +7,18 @@
 <p align="justify">
   I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
   I have a PhD and BSc in Computing and I specialize in software engineering, cloud computing, and distributed real-time systems. 
-  As part of my PhD thesis, I developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity/public clouds.
-  In the past, I have worked as a software developer and researcher in various projects, and I also like developing various types of software including
-  web and mobile applications, cross-platform applications, software libraries, tools, and more. I have extensively experimented with programming language design, compilers,
+  As part of my PhD thesis, I extensively studied resource-demanding, real-time distributed systems such as MMOG backends,
+  and developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity clouds.
+In the past, I have worked as a software developer and researcher in various projects, and I also like developing various types of software including
+  web and mobile applications, cross-platform applications, software libraries, tools, and more. I have experimented with programming language design, compilers,
   operating systems, clouds, robotics, and my research extends in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, and Gamification.
 </p>
 
 <div align="center">
 
-🌍 Based in **Cyprus**
+Based in **Cyprus**
 
+<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/800px-Flag_of_Cyprus.svg.png" />
 
 <a href="http://www.github.com/nkasenides"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nkasenides&stroke=000000&background=FFFFFF&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=333333&dates=333333&hide_border=false" /></a>
 
@@ -36,13 +38,13 @@ I teach several Computing modules at UCLan Cyprus:
 <h3>Interests:</h3>
 
 * Software Engineering
-* Commodity clouds
+* Cloud Computing
 * Real-time distributed systems (and specifically performance-intensive systems like MMOG backends)
 * Application development
-* Programming language design
+* Programming language design and compilers
 * Education in Computer Science
 
-<h3>Some side projects</h3>
+<h3>Some open-source side projects</h3>
 
 🔥 [Firestorm, an object-oriented Java API & ORM for Firebase Firestore & Real-time database](https://github.com/RayLabz/Firestorm)
 
