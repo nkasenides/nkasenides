@@ -20,7 +20,10 @@ Based in **Cyprus**
 
 <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/800px-Flag_of_Cyprus.svg.png" />
 
+<br/>
+
 <a href="http://www.github.com/nkasenides"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nkasenides&stroke=000000&background=FFFFFF&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=333333&dates=333333&hide_border=false" /></a>
+
 
 </div>
 
