@@ -5,7 +5,7 @@
 <p align="center"><b>👨‍🏫 Lecturer 🔭 Researcher 🧑‍💻 Señor developer 🙂️</b><p>
 
 <p align="justify">
-  I am an associate lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
+  I am a lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
   I have a PhD and BSc in Computing and I specialize in software engineering, cloud computing, and distributed real-time systems. 
   As part of my PhD thesis, I extensively studied resource-demanding, real-time distributed systems such as MMOG backends,
   and developed Athlos, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity clouds.
