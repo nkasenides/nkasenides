@@ -5,10 +5,10 @@
 <p align="center"><b>👨‍🏫 Lecturer 🔭 Researcher 🧑‍💻 Señor developer 🙂️</b><p>
 
 <p align="justify">
-  I am a lecturer in Computing at <a href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
-  I have a PhD and <a href="https://www.uclancyprus.ac.cy/undergraduate-course/bsc-hons-computing/">BSc in Computing</a> and I specialize in software engineering, cloud computing, and distributed real-time systems. 
+  I am a lecturer in Computing at <a target="_blank" href="http://www.uclancyprus.ac.cy/">UCLan Cyprus</a> where I teach several BSc and MSc Computing modules. 
+  I have a PhD and <a target="_blank" href="https://www.uclancyprus.ac.cy/undergraduate-course/bsc-hons-computing/">BSc in Computing</a> and I specialize in software engineering, cloud computing, and distributed real-time systems. 
   As part of my PhD thesis, I extensively studied resource-demanding, real-time distributed systems such as MMOG backends,
-  and developed <a href="https://www.mdpi.com/2674-113X/1/1/6">Athlos</a>, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity clouds.
+  and developed <a target="_blank" href="https://www.mdpi.com/2674-113X/1/1/6">Athlos</a>, which is a software development framework for developing scalable Massively Multiplayer Online Game backends that can run on commodity clouds.
 In the past, I have worked as a software developer and researcher in various projects, and I also like developing various types of software including
   web and mobile applications, cross-platform applications, software libraries, tools, and more. I have experimented with programming language design, compilers,
   operating systems, clouds, robotics, and my research extends in the areas of Human-Computer Interaction, Human-Robot Interaction, Educational Robotics, Game-Based Learning, and Gamification.
