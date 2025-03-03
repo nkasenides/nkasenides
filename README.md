@@ -49,13 +49,13 @@ I teach several Computing modules at UCLan Cyprus:
 
 <h3>Some open-source side projects</h3>
 
-🔥 [Firestorm, an object-oriented Java API & ORM for Firebase Firestore & Real-time database](https://github.com/RayLabz/Firestorm)
+🔥 [Firestorm, an object-oriented data management API & ODM tool for Firebase](https://github.com/RayLabz/Firestorm)
 
 🛜 [Mocha Server, a multi-threaded TCP & UDP server in Java](https://github.com/RayLabz/Mocha-Server)
 
 🖥️ [nicOS, a very very (VERY) simple operating system based on UNIX built from scratch](https://github.com/nkasenides/nicOS)
 
-<h3>Current work</h3>
+<h3>Recent work</h3>
 
 * I am currently working on the [PREPARED Mobile app](https://prepared-project.eu/app/), which provides a digital platform to complement 
 the training in terms of research ethics and integrity decision-making during global crises, under the [PREPARED project](https://prepared-project.eu/app/).
