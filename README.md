@@ -57,10 +57,14 @@ I teach several Computing modules at UCLan Cyprus:
 
 <h3>Recent work</h3>
 
-* I am currently working on the [PREPARED Mobile app](https://prepared-project.eu/app/), which provides a digital platform to complement 
+* Currently developing PwrGo, a AI-powered, context-aware task management application.
+
+* Developed the [Firestorm](https://pub.dev/packages/firestorm) Flutter package, an objected-oriented data access API and ODM tool for Firebase's Firestore and Realtime database.
+
+* Developed the [PREPARED Mobile app](https://prepared-project.eu/app/), which provides a digital platform to complement 
 the training in terms of research ethics and integrity decision-making during global crises, under the [PREPARED project](https://prepared-project.eu/app/).
 
-* I am also working on the development of the [ePhyLi](https://www.ephyliproject.eu/) mobile app, which aims to provide a platform for training
+* Developed the [ePhyLi](https://www.ephyliproject.eu/) mobile app, which aims to provide a platform for training
 future PE teachers in Physical Literacy and education.
 
 <br/>
