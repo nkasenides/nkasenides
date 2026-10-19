@@ -72,7 +72,7 @@ I currently teach the following Computing modules at UCLan Cyprus:
 
 <ul>
   <li>
-    Developed <strong>DJ Harmony</strong> ([(<a href="[https://apps.microsoft.com/detail/9pfhsxhbdpxt](https://djharmony.app/)" target="_blank"></a>)](https://djharmony.app/)), a Harmonic Mixing application that helps DJs mix music harmonically and manage their mixes using music theory concepts.
+    Developed <strong>DJ Harmony</strong> (https://djharmony.app/), a Harmonic Mixing application that helps DJs mix music harmonically and manage their mixes using music theory concepts.
   </li>
   <li>
     Co-developed <strong>PwrGo</strong>, with Joyce Fazaa an AI-powered, context-aware task management application.
