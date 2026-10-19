@@ -20,10 +20,6 @@ My broader research and technical interests span programming languages and compi
 
 <div align="center">
 
-<strong>Based in Cyprus</strong><br/>
-<img width="48" alt="Flag of Cyprus"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/800px-Flag_of_Cyprus.svg.png" />
-
 <br/><br/>
 
 <a href="https://www.github.com/nkasenides">
